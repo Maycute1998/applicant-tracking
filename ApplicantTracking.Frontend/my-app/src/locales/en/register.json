@@ -1,0 +1,13 @@
+{
+    "title": "Register",
+    "validations": {
+        "required": {
+            "userName": "UserName is a required field",
+            "password": "Password is a required field",
+            "email": "Email is a required field"
+        },
+        "format": {
+            "emailNotCorrectFormant": "Email not correct format"
+        }
+    }
+}

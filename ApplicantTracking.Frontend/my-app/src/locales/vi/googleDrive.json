@@ -1,0 +1,25 @@
+{
+    "title": "Google Drive",
+    "myDrive": "My Drive",
+    "disconnect":"Ngắt kết nối với Google Drive",
+    "dataGrid": {
+        "headers": {
+            "name": "Tên",
+            "fileSize": "Kích cỡ",
+            "createdTime": "Ngày tạo"
+        }
+    },
+    "menuContext": {
+        "createFolder": "Tạo mới thư mục",
+        "deleteFolder": "Xóa thư mục",
+        "deleteFile": "Xóa tệp tin",
+        "uploadFile": "Tải tệp tin lên máy chủ",
+        "viewFile": "Xem tệp tin",
+        "downloadFile": "Tải tệp tin về máy"
+    },
+    "validations": {
+        "required": {
+            "folderName": "Tên thư mục không được bỏ trống"
+        }
+    }
+}

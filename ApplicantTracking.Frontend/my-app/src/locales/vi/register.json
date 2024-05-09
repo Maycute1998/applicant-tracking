@@ -1,0 +1,13 @@
+{
+    "title": "Đăng ký",
+    "validations": {
+        "required": {
+            "userName": "Tên đăng nhập không được trống",
+            "password": "Mật khẩu không được trống",
+            "email": "Email không được trống"
+        },
+        "format": {
+            "emailNotCorrectFormant": "Email không đúng định dạng"
+        }
+    }
+}

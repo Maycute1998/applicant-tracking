@@ -1,0 +1,76 @@
+{
+    "title": "Keep track of all your job applications.",
+    "toolbar": "Công cụ",
+    "active": "Hoạt động",
+    "deActive": "Ngừng hoạt động",
+    "loginSystem": "Vui lòng đăng nhập vào hệ thống",
+    "accountSettings": "Cài đặt tài khoản",
+    "logout": "Đăng xuất",
+    "language": "Ngôn ngữ",
+    "showMore": "Hiễn thị thêm",
+    "themeUsed": "Sử dụng giao diện {{name}}",
+    "themeDark": "Tối",
+    "themeLight": "Sáng",
+    "services": "Dịch vụ",
+    "roles": "Nhóm quyền",
+    "languages": {
+        "vi": "Tiếng Việt",
+        "en": "Tiếng Anh"
+    },
+    "menuTop": {
+        "home": "Trang chủ",
+        "login": "Đăng nhập",
+        "roles": "Nhóm quyền",
+        "services": "Dịch vụ",
+        "users": "Người dùng",
+        "permissions": "Quyền",
+        "permissionInGroup": "Phân quyền"
+    },
+    "theme": {
+        "title": "Giao diện",
+        "dark": "Tối",
+        "light": "Sáng"
+    },
+    "externalMenu": {
+        "theme": "Sử dụng giao diện {{name}}"
+    },
+    "actions": {
+        "add": "Thêm mới",
+        "refresh": "Làm mới",
+        "delete": "Xoá",
+        "save": "Lưu lại",
+        "back": "Trở lại",
+        "importExcel":"Import Excel"
+    },
+    "pagination": {
+        "totalRows": "Tổng số dòng: {{totalRows}}"
+    },
+    "dialog": {
+        "importExcelTitle": "Import Excel",
+        "importExcelContent": "Vui lòng chọn tệp tin để import",
+        "uploadFileTitle": "Tải tệp tin",
+        "uploadFileContent": "Vui lòng chọn tệp tin trước khi tải tên máy chủ",
+        "selectItems": "vui lòng chọn ít nhất 1 mục",
+        "viewFile": "Xem",
+        "informationTitle": "Thông báo",
+        "confirmDeleteTitle": "Xác nhận xoá",
+        "confirmContent": "Bạn có muốn xoá mẫu tin {{name}} này không ?",
+        "confirm": "Xác nhận",
+        "cancel": "Bỏ qua",
+        "ok": "Đồng ý"
+    },
+    "googleDriveDialog": {
+        "createFolderTitle": "Tạo mới thư mục",
+        "buttons": {
+            "createFolder": "Tạo mới",
+            "cancel": "Bỏ qua",
+            "uploadFile": "Tải tệp tin lên"
+        }
+    },
+    "buttons": {
+        "cancel": "Bỏ qua",
+        "ok": "Đồng ý",
+        "editMode": "Chỉnh sửa",
+        "viewMode": "Xem"
+    }
+}

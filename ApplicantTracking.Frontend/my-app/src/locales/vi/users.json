@@ -1,0 +1,25 @@
+{
+    "title": "Quản lý người dùng",
+    "addNewTitle": "Thêm mới người dùng",
+    "editNewTitle": "Cập nhật người dùng",
+    "searchPlaceholder": "Nhập vào tên người dùng hoặc email để tìm kiếm",
+    "dataGrid": {
+        "headers": {
+            "userName": "Tên người dùng",
+            "password": "Mật khẩu",
+            "status": "Trạng thái",
+            "email": "Email",
+            "actions": "Tác vụ"
+        }
+    },
+    "validations": {
+        "required": {
+            "userName": "Tên đăng nhập không được để trống",
+            "password": "Mật khẩu không được để trống",
+            "email": "Email không được để trống"
+        },
+        "format": {
+            "emailNotCorrectFormant": "Email không đúng định dạng"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Users Management",
+    "addNewTitle": "Add New User",
+    "editNewTitle": "Modify User",
+    "searchPlaceholder": "Enter the username or email for searching",
+    "dataGrid": {
+        "headers": {
+            "userName": "UserName",
+            "password": "Password",
+            "status": "Status",
+            "email": "Email",
+            "actions": "Action"
+        }
+    },
+    "validations": {
+        "required": {
+            "userName": "userName is a required field",
+            "password": "password is a required field",
+            "email": "email is a required field"
+        },
+        "format": {
+            "emailNotCorrectFormant": "Email not correct format"
+        }
+    }
+}

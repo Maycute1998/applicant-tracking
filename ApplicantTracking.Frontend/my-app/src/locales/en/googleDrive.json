@@ -1,0 +1,25 @@
+{
+    "title": "Google Drive",
+    "myDrive": "My Drive",
+    "disconnect":"Disconnect with Google Drive",
+    "dataGrid": {
+        "headers": {
+            "name": "Name",
+            "fileSize": "File size",
+            "createdTime": "Created time"
+        }
+    },
+    "menuContext": {
+        "createFolder": "Create Folder",
+        "deleteFolder": "Delete Folder",
+        "deleteFile": "Delete File",
+        "uploadFile": "Upload file",
+        "viewFile": "View file",
+        "downloadFile": "Download file"
+    },
+    "validations": {
+        "required": {
+            "folderName": "Folder Name is a required field"
+        }
+    }
+}

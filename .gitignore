@@ -1,0 +1,7 @@
+/ApplicantTracking.API/bin
+/ApplicantTracking.API/obj
+/ApplicantTracking.Domain/obj
+/ApplicantTracking.Domain/bin
+/ApplicantTracking.Infrastructure/obj
+/ApplicantTracking.Infrastructure/bin
+/ApplicantTracking.API/.vs

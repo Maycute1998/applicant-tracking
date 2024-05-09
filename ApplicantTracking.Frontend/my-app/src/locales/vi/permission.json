@@ -1,0 +1,27 @@
+{
+    "title": "Quản lý quyền",
+    "addNewTitle": "Thêm mới quyền",
+    "editNewTitle": "Cập nhật quyền",
+    "searchPlaceholder": "Nhập vào mã hoặc tên để tìm kiếm",
+    "dataGrid": {
+        "headers": {
+            "code": "Mã",
+            "name": "Tên",
+            "serviceName": "Tên dịch vụ",
+            "moduleName": "Danh mục",
+            "buttonId":"Button ID",
+            "lang": "Ngôn ngữ",
+            "description": "Ghi chú",
+            "status": "Trạng thái",
+            "actions": "Tác vụ"
+        }
+    },
+    "validations": {
+        "required": {
+            "code": "Mã không được để trống",
+            "name": "Tên không được để trống",
+            "service": "Dịch vụ không được trống",
+            "moduleId": "Danh mục khống được trống"
+        }
+    }
+}

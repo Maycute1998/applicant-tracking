@@ -1,0 +1,9 @@
+{
+    "title": "Đăng nhập",
+    "validations": {
+        "required": {
+            "userName": "Tên đăng nhập không được để trống",
+            "password": "Mật khẩu không được để trống"
+        }
+    }
+}

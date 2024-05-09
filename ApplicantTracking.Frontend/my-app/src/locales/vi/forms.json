@@ -1,0 +1,52 @@
+{
+    "login": {
+        "title": "Đăng nhập",
+        "username": "Tên đăng nhập",
+        "password": "Mật khẩu",
+        "buttonLogin": "Đăng nhập",
+        "buttonRegister": "Đăng ký"
+    },
+    "register": {
+        "title": "Đăng ký",
+        "username": "Tên đăng nhập",
+        "password": "Mật khẩu",
+        "email": "Email",
+        "buttonRegister": "Đăng ký"
+    },
+    "users": {
+        "username": "Tên đăng nhập",
+        "password": "Mật khẩu",
+        "email": "Email",
+        "isActive": "Hoạt động"
+    },
+    "roles": {
+        "code": "Mã",
+        "name": "Tên",
+        "isActive": "Hoạt động"
+    },
+    "services": {
+        "code": "Mã",
+        "name": "Tên",
+        "isActive": "Hoạt động"
+    },
+    "googleDrive": {
+        "folderName": "Tên thư mục"
+    },
+    "modules": {
+        "code": "Mã",
+        "name": "Tên",
+        "service": "Dịch vụ",
+        "isActive": "Hoạt động",
+        "routePath": "Đường dẫn",
+        "icon": "Biểu tượng",
+        "selectService": "Vui lòng chọn dịch vụ",
+        "selectParent": "Vui lòng chọn danh mục"
+    },
+    "permission": {
+        "code": "Mã",
+        "name": "Tên",
+        "module": "Danh mục",
+        "buttonID": "Button ID",
+        "isActive": "Hoạt động"
+    }
+}

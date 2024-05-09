@@ -1,0 +1,52 @@
+{
+    "login": {
+        "title": "Login",
+        "username": "Username",
+        "password": "Password",
+        "buttonLogin": "Login",
+        "buttonRegister": "Register"
+    },
+    "register": {
+        "title": "Register",
+        "username": "Username",
+        "password": "Password",
+        "email": "Email",
+        "buttonRegister": "Register"
+    },
+    "users": {
+        "username": "Username",
+        "password": "Password",
+        "email": "Email",
+        "isActive": "Active"
+    },
+    "roles": {
+        "code": "Code",
+        "name": "Name",
+        "isActive": "Active"
+    },
+    "services": {
+        "code": "Code",
+        "name": "Name",
+        "isActive": "Active"
+    },
+    "googleDrive": {
+        "folderName": "Folder Name"
+    },
+    "modules": {
+        "code": "Code",
+        "name": "Name",
+        "service": "Service",
+        "isActive": "Active",
+        "routePath": "Route Path",
+        "icon": "Icon",
+        "selectService": "Please select service",
+        "selectParent": "Please select parent"
+    },
+    "permission": {
+        "code": "Code",
+        "name": "Name",
+        "module": "Module",
+        "buttonID": "Button ID",
+        "isActive": "Active"
+    }
+}

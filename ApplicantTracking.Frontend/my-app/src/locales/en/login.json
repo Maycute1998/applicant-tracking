@@ -1,0 +1,9 @@
+{
+    "title": "Login",
+    "validations": {
+        "required": {
+            "userName": "UserName is a required field",
+            "password": "Password is a required field"
+        }
+    }
+}

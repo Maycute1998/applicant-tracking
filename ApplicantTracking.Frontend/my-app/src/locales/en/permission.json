@@ -1,0 +1,27 @@
+{
+    "title": "Permissions Management",
+    "addNewTitle": "Add New Permissions",
+    "editNewTitle": "Modify Permissions",
+    "searchPlaceholder": "Enter the code or name for searching",
+    "dataGrid": {
+        "headers": {
+            "code": "Code",
+            "name": "Name",
+            "serviceName":"Service Name",
+            "moduleName":"Module Name",
+            "buttonId":"Button ID",
+            "status": "Status",
+            "lang": "Language",
+            "description": "Description",
+            "actions": "Action"
+        }
+    },
+    "validations": {
+        "required": {
+            "code": "Code is a required field",
+            "name": "Name is a required field",
+            "service": "Service is a required field",
+            "moduleId": "Module is a required field"
+        }
+    }
+}

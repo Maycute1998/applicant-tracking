@@ -1,0 +1,15 @@
+{
+    "titleCreate": "Create module",
+    "titleModify": "Modify module",
+    "category": "Category",
+    "toolbar": {
+        "addNewTitle": "Add New Module"
+    },
+    "validations": {
+        "required": {
+            "serviceId": "Service is a required field",
+            "code": "Code is a required field",
+            "name": "Name is a required field"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "titleCreate": "Tạo mới danh mục",
+    "titleModify": "Thay đổi danh mục",
+    "category": "Danh mục",
+    "toolbar": {
+        "addNewTitle": "Thêm mới danh mục"
+    },
+    "validations": {
+        "required": {
+            "serviceId": "Dịch vụ không được trống",
+            "code": "Mã không được để trống",
+            "name": "Tên không được để trống"
+        }
+    }
+}

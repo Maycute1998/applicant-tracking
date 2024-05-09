@@ -1,0 +1,27 @@
+{
+    "title": "Role Management",
+    "addNewTitle": "Add New Role",
+    "editNewTitle": "Modify Role",
+    "searchPlaceholder": "Enter the code or name for searching",
+    "dataGrid": {
+        "headers": {
+            "code": "Code",
+            "name": "Name",
+            "status": "Status",
+            "description": "Description",
+            "actions": "Action"
+        }
+    },
+    "validations": {
+        "required": {
+            "code": "Code is a required field",
+            "name": "Name is a required field"
+        },
+        "stringLength": {
+            "codeMinLength": "Code must be greater than 1 characters",
+            "codeMaxLength": "Code must be less than or equal to 255 characters",
+            "nameMinLength": "Name must be greater than 1 characters",
+            "nameMaxLength": "Name must be less than or equal to 255 characters"
+        }
+    }
+}

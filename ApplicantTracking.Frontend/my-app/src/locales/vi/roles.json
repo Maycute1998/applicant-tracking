@@ -1,0 +1,27 @@
+{
+    "title": "Quản lý nhóm quyền",
+    "addNewTitle": "Thêm mới nhóm quyền",
+    "editNewTitle": "Cập nhật nhóm quyền",
+    "searchPlaceholder": "Nhập vào mã hoặc tên để tìm kiếm",
+    "dataGrid": {
+        "headers": {
+            "code": "Mã",
+            "name": "Tên",
+            "description": "Ghi chú",
+            "status": "Trạng thái",
+            "actions": "Tác vụ"
+        }
+    },
+    "validations": {
+        "required": {
+            "code": "Mã không được để trống",
+            "name": "Tên không được để trống"
+        },
+        "stringLength": {
+            "codeMinLength": "Mã phải lớn hơn 1 ký tự",
+            "codeMaxLength": "Mã phải nhỏ hơn hoặc băng 255 ký tự",
+            "nameMinLength": "Tên phải lớn hơn 1 ký tự",
+            "nameMaxLength": "Tên phải nhỏ hơn hoặc bằng 255 ký tự"
+        }
+    }
+}
