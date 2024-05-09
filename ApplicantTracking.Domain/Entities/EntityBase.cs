@@ -8,7 +8,7 @@ namespace ApplicantTracking.Domain.Entities
 {
     public class EntityBase<TKey>
     {
-        public TKey Id { get; set; }
+        public TKey? Id { get; set; }
         public Status? Status { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? ModifiedDate { get; set; }

@@ -9,5 +9,5 @@ try
 }
 catch (Exception ex)
 {
-
+    throw new Exception(ex.Message);
 }

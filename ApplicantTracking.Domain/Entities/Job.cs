@@ -8,18 +8,18 @@ namespace ApplicantTracking.Domain.Entities
 {
     public class Job : EntityBase<int>
     {
-        public string JobPosition { get; set; }
-        public string Company { get; set; }
-        public string Location { get; set; }
+        public string? JobPosition { get; set; }
+        public string? Company { get; set; }
+        public string? Location { get; set; }
         public double MinSalary { get; set; }
         public double MaxSalary { get; set; }
         public DateTime AppliedDate { get; set; }
         public JobStatus JobStatus { get; set; }
         public Result Result { get; set; }
-        public string JobUrl { get; set; }
+        public string? JobUrl { get; set; }
         public int Priority { get; set; }
-        public string Tag { get; set; }
-        public string Note { get; set; }
+        public string? Tag { get; set; }
+        public string? Note { get; set; }
         public User? Users { get; set; }
     }
 }
